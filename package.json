@@ -12,6 +12,7 @@
     "print": "bacon-love print",
     "run": "bacon-love run",
     "verify": "bacon-love verify",
+    "help": "bacon-love help",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
