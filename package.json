@@ -1,0 +1,20 @@
+{
+  "name": "bacon-love-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bacon-love",
+    "print": "bacon-love print",
+    "run": "bacon-love run",
+    "verify": "bacon-love verify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bacon-love": "^2.0.0",
+    "baconjs": "^0.7.88"
+  }
+}
