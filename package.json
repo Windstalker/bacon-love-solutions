@@ -17,8 +17,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "eslintConfig": {
+    "extends": "airbnb-base"
+  },
   "dependencies": {
     "bacon-love": "^2.0.0",
     "baconjs": "^0.7.88"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.0",
+    "eslint-config-airbnb-base": "^10.0.1",
+    "eslint-plugin-import": "^2.2.0"
   }
 }
